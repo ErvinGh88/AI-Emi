@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1668783702 source:d:\programm (code)(sourse)\2022\c++ projects\note\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
