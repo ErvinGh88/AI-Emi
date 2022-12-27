@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1658249972 source:d:\program (code)(sourse)\(b) programing codes\who am i\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
