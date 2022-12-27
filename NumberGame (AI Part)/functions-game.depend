@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1271620035 source:e:\c++\functions-game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1271620498 source:h:\code blocks projects\functions-game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1271616898 source:d:\programm (code)(sourse)\2022\c++ projects\functions-game\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1671972607 source:d:\programm (code)(sourse)\2022\c++ projects\(!)(!)(!)(!)(!) ai emi (!)(!)(!)(!)(!)\numbergame (ai part)\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
