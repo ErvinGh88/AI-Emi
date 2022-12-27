@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1271621702 source:e:\c++\classexample1\main.cpp
+	<iostream>
+	<time.h>
+
+1271625302 source:d:\program (code)(sourse)\(b) programing codes\(!) bank\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1271625302 source:d:\program (code)(sourse)\(b) programing codes\bank\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1668702417 source:d:\programm (code)(sourse)\2022\c++ projects\bank\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1668702417 source:d:\programm (code)(sourse)\2022\c++ projects\(!)(!)(!) ai emi (!)(!)(!)\bank (ai part)\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1671969899 source:d:\programm (code)(sourse)\2022\c++ projects\(!)(!)(!)(!)(!) ai emi (!)(!)(!)(!)(!)\bank (ai part)\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
