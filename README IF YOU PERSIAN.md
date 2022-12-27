@@ -1,0 +1,5 @@
+# AI-Emi
+Code::blocks Specific robot (cosole app yet) with ability (will be updated soon)
+
+Persian: salam in yek AI (Artifical-intiligent) hast ke be shoma ability haye ziadi ro mid ke ba estefada az oon ha mitonid EZ kar konid :)
+agar ide ya moshkeli ro didid khaheshan add konid va be man begid (E-mail: ervinbusinessghoreishi@gmail.com)
