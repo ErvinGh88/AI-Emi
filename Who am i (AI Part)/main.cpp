@@ -31,7 +31,7 @@ void clearscreen(){
     system("cls");
 }
 
-void print_menu(){
+char print_menu(){
     clearscreen();
     int x = 25 , y = 5;
     setcolor(15);
@@ -54,7 +54,9 @@ void print_menu(){
 
     char user_choice;
     user_choice = getch();
-    cout << user_choice;
+    return user_choice;
+
+
 }
 int main()
 {
@@ -193,7 +195,7 @@ int main()
             cout << "3. ";
             setcolor(15);
                 cout << "I have earning on my programming & my games" << endl;
-                cout << "   and i was start programming a muonth ago " << endl;
+                cout << "   and i was start programming two year ago " << endl;
                 cout << "   and i am so happy to start this seed (thanks dad) :)" << endl;
                 cout << "   and now programming is the part of my life" << endl;
 
