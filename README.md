@@ -12,6 +12,6 @@ Secend-step: you have to find the "main.cpp" and click✔
 Third-step: now you have the src code you can use it but ©/lisense is stil here >‿¬
                                   </pre>
 - For download Code::Blocks: **https://www.codeblocks.org/downloads/**
-* I prefer to use: **MinGW**<sub>20.03</sub>
+* I prefer to use: **MinGW**<sub>v20.03</sub>
 
 <h3 align='center'><i>Emi X Codeblocks</i></h3>
