@@ -5,11 +5,11 @@
                                                             </>
                                                             
 <pre align='center'>
-                          <h1 align='center'>💡</h1>
-   Tip: for opening each file(Src):
-  first-step: you gonna click the file you wanted 
-  secend-step: you have to find the "main.cpp" and click✔
-third-step: now you have the src code you can use it but ©/lisense is stil here >‿¬
+                          <h1 align='center'><b>💡Tip💡</b></h1>
+For opening each file(Src):
+First-step: you gonna click the file you wanted 
+Secend-step: you have to find the "main.cpp" and click✔
+Third-step: now you have the src code you can use it but ©/lisense is stil here >‿¬
                                   </pre>
 For download Code::Blocks: **https://www.codeblocks.org/downloads/** </br>
 I prefer to use: **MinGW**<sub>20.03</sub>
