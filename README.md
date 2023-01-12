@@ -13,6 +13,6 @@ Third-step: now you have the src code you can use it but ©/lisense is stil here
                                   </pre>
 - For download Code::Blocks: **https://www.codeblocks.org/downloads/**
 * I prefer to use: **MinGW**<sub>v20.03</sub>
-+ If you are persian people use: **Soft98**<sub>.ir</sub>
++ If you are persian people use: <a href='https://soft98.ir/'>**Soft98**</a><sub>.ir</sub>
 
 <h3 align='center'><i>Emi X Codeblocks</i></h3>
